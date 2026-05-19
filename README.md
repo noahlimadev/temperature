@@ -11,7 +11,7 @@ Pretty simple app, ikr
 # How to Install
 Download the repo or
 ```
-git clone https://github.com/Solamento02/temperature
+git clone https://github.com/noahlimadev/temperature
 ```
 later, do as any node program would do and type
 ```
